@@ -1,0 +1,11 @@
+F:\dev skill\entity freamwork\efcore\efcore\bin\Debug\netcoreapp2.2\efcore.deps.json
+F:\dev skill\entity freamwork\efcore\efcore\bin\Debug\netcoreapp2.2\efcore.runtimeconfig.json
+F:\dev skill\entity freamwork\efcore\efcore\bin\Debug\netcoreapp2.2\efcore.runtimeconfig.dev.json
+F:\dev skill\entity freamwork\efcore\efcore\bin\Debug\netcoreapp2.2\efcore.dll
+F:\dev skill\entity freamwork\efcore\efcore\obj\Debug\netcoreapp2.2\efcore.csprojAssemblyReference.cache
+F:\dev skill\entity freamwork\efcore\efcore\obj\Debug\netcoreapp2.2\efcore.csproj.CoreCompileInputs.cache
+F:\dev skill\entity freamwork\efcore\efcore\obj\Debug\netcoreapp2.2\efcore.AssemblyInfoInputs.cache
+F:\dev skill\entity freamwork\efcore\efcore\obj\Debug\netcoreapp2.2\efcore.AssemblyInfo.cs
+F:\dev skill\entity freamwork\efcore\efcore\bin\Debug\netcoreapp2.2\efcore.pdb
+F:\dev skill\entity freamwork\efcore\efcore\obj\Debug\netcoreapp2.2\efcore.dll
+F:\dev skill\entity freamwork\efcore\efcore\obj\Debug\netcoreapp2.2\efcore.pdb
